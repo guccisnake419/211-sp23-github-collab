@@ -84,6 +84,13 @@ void ddesle3_yshah33(){
   printf("We learned that github is online programming tool\n");
   printf("that more software companies use to communicate about their project\n");
 }
+void vsava3_azamb2(){
+
+  printf("\nVictor Savage, Abdul Zambi\n");
+  printf("We learned how to set-up git on our local machine, and command line tools that makes it easy to use\n");
+  
+
+}
 
 int main() {
   printf(
@@ -98,6 +105,7 @@ int main() {
   jgongo2_pkoby2_kseki3();
   pghimi3_ariver67();
   ddesle3_yshah33();
+  vsava3_azamb2();
 
   return 0;
 }
